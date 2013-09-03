@@ -11,7 +11,7 @@ Vous devez renseigner dans le fichier *identifiants.php* vos informations de con
 
 Libre à vous de personnaliser/améliorer ces scripts qui sont la base de l'utilisation de la GAPI Google Analytics.
 
-###Obtenir son ProfilID
+###Obtenir son Profil ID
 ![ProfilID](https://developers.google.com/analytics/images/profile_id_report_url.png)
 
 ##Ressources
