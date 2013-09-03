@@ -13,7 +13,8 @@ Libre à vous de personnaliser/améliorer ces scripts qui sont la base de l'util
 
 ###Obtenir son Profil ID
 ![ProfilID](https://developers.google.com/analytics/images/profile_id_report_url.png)
-Votre *Profil ID* se situe apres la lettre **p**
+
+Votre *Profil ID* se situe apres la lettre **p**.
 
 ##Ressources
 * Dimensions & Metrics Reference : https://developers.google.com/analytics/devguides/reporting/core/dimsmets
