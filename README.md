@@ -15,7 +15,7 @@ Libre à vous de personnaliser/améliorer ces scripts qui sont la base de l'util
 ![ProfilID](https://developers.google.com/analytics/images/profile_id_report_url.png)
 
 ##Ressources
-*Dimensions & Metrics Reference : https://developers.google.com/analytics/devguides/reporting/core/dimsmets
-*Google APIs Client Library for PHP : https://code.google.com/p/google-api-php-client/
-*APIs Explorer : https://developers.google.com/apis-explorer/#p/analytics/v3/analytics.data.ga.get
-*Core Reporting API - Reference Guide : https://developers.google.com/analytics/devguides/reporting/core/v3/reference
+* Dimensions & Metrics Reference : https://developers.google.com/analytics/devguides/reporting/core/dimsmets
+* Google APIs Client Library for PHP : https://code.google.com/p/google-api-php-client/
+* APIs Explorer : https://developers.google.com/apis-explorer/#p/analytics/v3/analytics.data.ga.get
+* Core Reporting API - Reference Guide : https://developers.google.com/analytics/devguides/reporting/core/v3/reference
